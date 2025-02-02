@@ -4,13 +4,13 @@ A simple and intuitive tool designed to help you manage and organize your movies
 
 ## What
 
-My Movies Database is a spreadsheet application that allows you to easily add, rate, and analyze your movies.
+My Movies Database (MMD) is a spreadsheet application that allows you to easily add, rate, and analyze your movies.
 Through an App Script function, you can easily collect data about the movies from IMDB.
+Check out my [personal database](https://docs.google.com/spreadsheets/d/1evnjLFzM3apXph0sUahqcbCwuEKCeAZh6bp3bdshSm4/edit?gid=1990214244#gid=1990214244) to see a live example of what MMD looks like.
 
 ## How
 ### 1. Import the Template
-
-My Movies Database (MMD) is based on Google Sheets.
+MMD is based on Google Sheets.
 - Open the [template file](https://docs.google.com/spreadsheets/d/1-5ViP5Bn0uLv4Wy5vW8PsEq-MTmg-6PiarnHOoRYF4M/edit?usp=sharing) and from the drop-down press `File -> Make a Copy`.
 - Feel Free to rename the Spreadsheet according to your preferences, but Changing sheet names is not recommended, due to possible sheet dependencies.
 
